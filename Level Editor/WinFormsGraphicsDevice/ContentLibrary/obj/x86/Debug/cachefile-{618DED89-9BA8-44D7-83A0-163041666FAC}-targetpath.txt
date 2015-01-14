@@ -1,0 +1,3 @@
+Content\hudFont.xnb
+Content\PORO_HIGH_RES.xnb
+Content\spritetest.xnb

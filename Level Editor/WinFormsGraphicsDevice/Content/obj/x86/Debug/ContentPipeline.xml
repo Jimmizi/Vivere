@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>hudFont.spritefont</Source>
+      <Name>hudFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\hudFont.xnb</Output>
+      <Time>2014-03-04T10:28:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PORO_HIGH_RES.png</Source>
+      <Name>PORO_HIGH_RES</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\PORO_HIGH_RES.xnb</Output>
+      <Time>2014-03-04T10:28:31+00:00</Time>
+    </Item>
+    <Item>
+      <Source>spritetest.png</Source>
+      <Name>spritetest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\spritetest.xnb</Output>
+      <Time>2014-03-04T10:28:30+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\Content\</RootDirectory>
+      <LoggerRootDirectory>\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\</LoggerRootDirectory>
+      <IntermediateDirectory>\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-17T14:19:40.658919+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

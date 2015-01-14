@@ -1,0 +1,123 @@
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Level1\Jaunty Gumption.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Level2\The Complex.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Level3\Prelude and Action.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Menu\Elevator Music.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Menu\menuMusic.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Menu\EPIC SAX GUY 10 MINS.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Background\bgexit.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Background\bggameover.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\collision.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\leftrightCollision.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\topCollision.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\bottomCollision.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\platform.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\artist's desk level\1Floorblock.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\artist's desk level\chalkboard.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\artist's desk level\everything for scale.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\artist's desk level\inkspot1.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\artist's desk level\paperstack.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\artist's desk level\printer.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\artist's desk level\sharppencil.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\comic book level\bookstack1.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\comic book level\comicbookrack.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\comic book level\comicstack2.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\comic book level\openbook.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\streets level\redradiator.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\streets level\sewergrate.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\streets level\tap drop.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\streets level\tap.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\streets level\watercooler.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Powerups\bigfreeze.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Powerups\blueball.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Powerups\death.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Powerups\heatwave.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Powerups\invincibility.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Powerups\redball.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Powerups\stopwatch.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Misc\rain.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Background\bgmenu.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Misc\fire.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Misc\fireYellow.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\artist's desk level\5Floorblock.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\artist's desk level\door.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\princess\leftIdle.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\princess\leftJump.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\princess\leftRun.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\princess\rightIdle.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\princess\rightJump.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\princess\rightRun.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Background\optionsBackground.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Background\SelectLevel.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Background\SelectPlayer.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\UI\cold.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\UI\hot.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Enemy\zombie.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Enemy\scissors.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Menu\book.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Menu\book2.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Menu\book3.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Menu\vivere.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Misc\door.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Misc\goal.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Misc\spawn.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\comic book level\1Floorblock.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\comic book level\5Floorblock.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\zombie\zombieLeftIdle.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\zombie\zombieLeftJump.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\zombie\zombieLeftRun.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\zombie\zombieRightIdle.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\zombie\zombieRightJump.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\zombie\zombieRightRun.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\link\linkLeftJump.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\link\linkRightJump.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\link\linkLeftRun.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\link\linkRightRun.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\link\linkLeftIdle.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Player\link\linkRightIdle.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Background\level1Background.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Background\level2Background.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Background\level3Background.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Enemy\zombie\zombieLeftIdle.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Enemy\zombie\zombieLeftJump.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Enemy\zombie\zombieLeftRun.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Enemy\zombie\zombieRightIdle.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Enemy\zombie\zombieRightJump.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Enemy\zombie\zombieRightRun.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Powerups\coin.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Enemy\scissors\scissors.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\streets level\1Floorblock.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Platforms\streets level\5floorblock.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\EventMusic\jumping_teon.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Video\video.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Font\Times New Roman.xnb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Level1\Jaunty Gumption.wma
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Level2\The Complex.wma
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Level3\Prelude and Action.wma
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Menu\Elevator Music.wma
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Menu\menuMusic.wma
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Audio\BackgroundMusic\Menu\EPIC SAX GUY 10 MINS.wma
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Video\video.wmv
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Maps\map1.txt
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Maps\map2.txt
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Maps\map3.txt
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Maps\map4.txt
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Maps\map5.txt
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Maps\map6.txt
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Maps\map7.txt
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Sound Bank.xsb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\Wave Bank.xwb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\Content\XACT for PlatformGameV2.xgs
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\WinFormsGraphicsDevice.exe
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\WinFormsGraphicsDevice.pdb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\PlatformerGame.exe
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\bin\Debug\PlatformerGame.pdb
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\obj\x86\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\obj\x86\Debug\WinFormsGraphicsDevice.frmAbout.resources
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\obj\x86\Debug\WinFormsGraphicsDevice.frmLoad.resources
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\obj\x86\Debug\WinFormsGraphicsDevice.frmNew.resources
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\obj\x86\Debug\WinFormsGraphicsDevice.frmSave.resources
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\obj\x86\Debug\WinFormsGraphicsDevice.MainForm.resources
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\obj\x86\Debug\WinFormsGraphicsDevice.Properties.Resources.resources
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\obj\x86\Debug\LevelEditor.csproj.GenerateResource.Cache
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\obj\x86\Debug\WinFormsGraphicsDevice.exe
+C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\obj\x86\Debug\WinFormsGraphicsDevice.pdb

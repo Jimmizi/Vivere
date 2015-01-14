@@ -1,0 +1,27 @@
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\hudFont.xnb
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\PORO_HIGH_RES.xnb
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\spritetest.xnb
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\ContentLibrary.dll
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\ContentLibrary.pdb
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.dll
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.pdb
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\Backups\Final Backup\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\hudFont.xnb
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\Backups\Final Backup\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\PORO_HIGH_RES.xnb
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\Backups\Final Backup\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\spritetest.xnb
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\Backups\Final Backup\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\ContentLibrary.dll
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\Backups\Final Backup\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\ContentLibrary.pdb
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\Backups\Final Backup\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\Backups\Final Backup\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\Backups\Final Backup\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.dll
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\Backups\Final Backup\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.pdb
+\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\hudFont.xnb
+\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\PORO_HIGH_RES.xnb
+\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\Content\spritetest.xnb
+\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\ContentLibrary.dll
+\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\bin\x86\Debug\ContentLibrary.pdb
+\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.csprojResolveAssemblyReference.cache
+\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.dll
+\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\ContentLibrary\obj\x86\Debug\ContentLibrary.pdb

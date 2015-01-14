@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{1C95DD37-F79F-4156-9C85-9006678EE37F}</ProjectGuid>
+    <ProjectTypeGuids>{96E2B04D-8817-42c6-938A-82C39BA4D311};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <OutputPath>bin\$(Platform)\$(Configuration)</OutputPath>
+    <ContentRootDirectory>Content</ContentRootDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>PlatformerGameContent</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.EffectImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.FBXImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.TextureImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.XImporter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.AudioImporters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline.VideoImporters, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sound Bank.xsb">
+      <Name>Sound Bank</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Wave Bank.xwb">
+      <Name>Wave Bank</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="XACT for PlatformGameV2.xgs">
+      <Name>XACT for PlatformGameV2</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Audio\BackgroundMusic\Level1\Jaunty Gumption.mp3">
+      <Name>Jaunty Gumption</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Audio\BackgroundMusic\Level2\The Complex.mp3">
+      <Name>The Complex</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Audio\BackgroundMusic\Level3\Prelude and Action.mp3">
+      <Name>Prelude and Action</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Audio\BackgroundMusic\Menu\Elevator Music.mp3">
+      <Name>Elevator Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Audio\BackgroundMusic\Menu\menuMusic.mp3">
+      <Name>menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Audio\BackgroundMusic\Menu\EPIC SAX GUY 10 MINS.mp3">
+      <Name>EPIC SAX GUY 10 MINS</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+    </Compile>
+    <Compile Include="Background\bgexit.png">
+      <Name>bgexit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Background\bggameover.png">
+      <Name>bggameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\collision.png">
+      <Name>collision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\leftrightCollision.png">
+      <Name>leftrightCollision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\topCollision.png">
+      <Name>topCollision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\bottomCollision.png">
+      <Name>bottomCollision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\platform.png">
+      <Link>Platforms\platform.png</Link>
+      <Name>platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist%27s desk level\1Floorblock.png">
+      <Link>Platforms\artist%27s desk level\1Floorblock.png</Link>
+      <Name>1Floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist%27s desk level\chalkboard.png">
+      <Link>Platforms\artist%27s desk level\chalkboard.png</Link>
+      <Name>chalkboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist%27s desk level\everything for scale.png">
+      <Link>Platforms\artist%27s desk level\everything for scale.png</Link>
+      <Name>everything for scale</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist%27s desk level\inkspot1.png">
+      <Link>Platforms\artist%27s desk level\inkspot1.png</Link>
+      <Name>inkspot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist%27s desk level\paperstack.png">
+      <Link>Platforms\artist%27s desk level\paperstack.png</Link>
+      <Name>paperstack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist%27s desk level\printer.png">
+      <Link>Platforms\artist%27s desk level\printer.png</Link>
+      <Name>printer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist%27s desk level\sharppencil.png">
+      <Link>Platforms\artist%27s desk level\sharppencil.png</Link>
+      <Name>sharppencil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\bookstack1.png">
+      <Link>Platforms\comic book level\bookstack1.png</Link>
+      <Name>bookstack1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\comicbookrack.png">
+      <Link>Platforms\comic book level\comicbookrack.png</Link>
+      <Name>comicbookrack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\comicstack2.png">
+      <Link>Platforms\comic book level\comicstack2.png</Link>
+      <Name>comicstack2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\openbook.png">
+      <Link>Platforms\comic book level\openbook.png</Link>
+      <Name>openbook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\streets level\redradiator.png">
+      <Link>Platforms\streets level\redradiator.png</Link>
+      <Name>redradiator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\streets level\sewergrate.png">
+      <Link>Platforms\streets level\sewergrate.png</Link>
+      <Name>sewergrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\streets level\tap drop.png">
+      <Link>Platforms\streets level\tap drop.png</Link>
+      <Name>tap drop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\streets level\tap.png">
+      <Link>Platforms\streets level\tap.png</Link>
+      <Name>tap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\streets level\watercooler.png">
+      <Link>Platforms\streets level\watercooler.png</Link>
+      <Name>watercooler</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Powerups\bigfreeze.png">
+      <Link>Powerups\bigfreeze.png</Link>
+      <Name>bigfreeze</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Powerups\blueball.png">
+      <Link>Powerups\blueball.png</Link>
+      <Name>blueball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Powerups\death.png">
+      <Link>Powerups\death.png</Link>
+      <Name>death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Powerups\heatwave.png">
+      <Link>Powerups\heatwave.png</Link>
+      <Name>heatwave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Powerups\invincibility.png">
+      <Link>Powerups\invincibility.png</Link>
+      <Name>invincibility</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Powerups\redball.png">
+      <Link>Powerups\redball.png</Link>
+      <Name>redball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Powerups\stopwatch.png">
+      <Link>Powerups\stopwatch.png</Link>
+      <Name>stopwatch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Misc\rain.png">
+      <Name>rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Background\bgmenu.png">
+      <Name>bgmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Audio\EventMusic\jumping_teon.wav">
+      <Name>jumping_teon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+    </Compile>
+    <Compile Include="Misc\fire.png">
+      <Name>fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Misc\fireYellow.png">
+      <Name>fireYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist%27s desk level\5Floorblock.png">
+      <Link>Platforms\artist%27s desk level\5Floorblock.png</Link>
+      <Name>5Floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist%27s desk level\door.png">
+      <Link>Platforms\artist%27s desk level\door.png</Link>
+      <Name>door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\princess\leftIdle.png">
+      <Name>leftIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\princess\leftJump.png">
+      <Name>leftJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\princess\leftRun.png">
+      <Name>leftRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\princess\rightIdle.png">
+      <Name>rightIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\princess\rightJump.png">
+      <Name>rightJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\princess\rightRun.png">
+      <Name>rightRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Background\optionsBackground.png">
+      <Name>optionsBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Background\SelectLevel.png">
+      <Name>SelectLevel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Background\SelectPlayer.png">
+      <Name>SelectPlayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Video\video.wmv">
+      <Name>video</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+    </Compile>
+    <Compile Include="UI\cold.png">
+      <Name>cold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="UI\hot.png">
+      <Name>hot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Font\Times New Roman.spritefont">
+      <Link>Font\Times New Roman.spritefont</Link>
+      <Name>Times New Roman</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Enemy\zombie.png">
+      <Link>Enemy\zombie.png</Link>
+      <Name>zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Enemy\scissors.png">
+      <Link>Enemy\scissors.png</Link>
+      <Name>scissors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Menu\book.jpg">
+      <Name>book</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Menu\book2.png">
+      <Name>book2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Menu\book3.jpg">
+      <Name>book3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Menu\vivere.png">
+      <Name>vivere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Misc\door.png">
+      <Name>door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Misc\goal.png">
+      <Link>Misc\goal.png</Link>
+      <Name>goal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Misc\spawn.png">
+      <Link>Misc\spawn.png</Link>
+      <Name>spawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\1Floorblock.png">
+      <Link>Platforms\comic book level\1Floorblock.png</Link>
+      <Name>1Floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\5Floorblock.png">
+      <Link>Platforms\comic book level\5Floorblock.png</Link>
+      <Name>5Floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\zombie\zombieLeftIdle.png">
+      <Name>zombieLeftIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\zombie\zombieLeftJump.png">
+      <Name>zombieLeftJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\zombie\zombieLeftRun.png">
+      <Name>zombieLeftRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\zombie\zombieRightIdle.png">
+      <Name>zombieRightIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\zombie\zombieRightJump.png">
+      <Name>zombieRightJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\zombie\zombieRightRun.png">
+      <Name>zombieRightRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\link\linkLeftJump.png">
+      <Name>linkLeftJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\link\linkRightJump.png">
+      <Name>linkRightJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\link\linkLeftRun.png">
+      <Name>linkLeftRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\link\linkRightRun.png">
+      <Name>linkRightRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\link\linkLeftIdle.png">
+      <Name>linkLeftIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Player\link\linkRightIdle.png">
+      <Name>linkRightIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Background\level1Background.jpg">
+      <Name>level1Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Background\level2Background.jpg">
+      <Name>level2Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Background\level3Background.jpg">
+      <Name>level3Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Enemy\zombie\zombieLeftIdle.png">
+      <Name>zombieLeftIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Enemy\zombie\zombieLeftJump.png">
+      <Name>zombieLeftJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Enemy\zombie\zombieLeftRun.png">
+      <Name>zombieLeftRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Enemy\zombie\zombieRightIdle.png">
+      <Name>zombieRightIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Enemy\zombie\zombieRightJump.png">
+      <Name>zombieRightJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Enemy\zombie\zombieRightRun.png">
+      <Name>zombieRightRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Powerups\coin.png">
+      <Link>Powerups\coin.png</Link>
+      <Name>coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Enemy\scissors\scissors.png">
+      <Name>scissors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Maps\map1.txt">
+      <Link>Maps\map1.txt</Link>
+      <Name>map1</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Maps\map2.txt">
+      <Link>Maps\map2.txt</Link>
+      <Name>map2</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Maps\map3.txt">
+      <Link>Maps\map3.txt</Link>
+      <Name>map3</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Maps\map4.txt">
+      <Link>Maps\map4.txt</Link>
+      <Name>map4</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Maps\map5.txt">
+      <Link>Maps\map5.txt</Link>
+      <Name>map5</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Maps\map6.txt">
+      <Link>Maps\map6.txt</Link>
+      <Name>map6</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\Level Editor\WinFormsGraphicsDevice\Content\Maps\map7.txt">
+      <Link>Maps\map7.txt</Link>
+      <Name>map7</Name>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Compile Include="Platforms\streets level\1Floorblock.png">
+      <Name>1Floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Platforms\streets level\5floorblock.png">
+      <Name>5floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\$(XnaFrameworkVersion)\Microsoft.Xna.GameStudio.ContentPipeline.targets" />
+  <!--  To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

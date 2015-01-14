@@ -1,0 +1,44 @@
+[1000,1000]
+#MAP_TEXTURES
+000
+
+#COLLISION_COORDS
+003
+[00000,00850]
+[00245,00850]
+[00489,00850]
+
+#COLLISION_TEXTURES
+[Platforms\comic book level\5Floorblock]
+[Platforms\comic book level\5Floorblock]
+[Platforms\comic book level\5Floorblock]
+
+#ENEMY_COORDS
+000
+
+#ENEMY_TEXTURES
+
+#POWER_UP_COORDS
+002
+[00189,00735]
+[00360,00738]
+
+#POWER_UP_TEXTURES
+002
+[Powerups\coin]
+[Powerups\coin]
+
+#STARTGOAL_COORDS
+[00040,00782]
+[00695,00789]
+
+#INVISIBLE_COORDS
+000
+
+#INVISIBLE_TEXTURES
+
+#BREAKABLE_COORDS
+000
+
+#BREAKABLE_TEXTURES
+

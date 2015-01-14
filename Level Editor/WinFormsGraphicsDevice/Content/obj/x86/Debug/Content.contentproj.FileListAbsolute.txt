@@ -1,0 +1,3 @@
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\WinFormsGraphicsDevice\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Jake\Downloads\WinFormsGraphicsSample_4_0\Backups\Final Backup\WinFormsGraphicsDevice\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+\\nstu-uwe12\users$\j2-stopher\Personal\noaddedsugar\Level Editor\WinFormsGraphicsDevice\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache

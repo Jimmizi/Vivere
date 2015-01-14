@@ -1,0 +1,29 @@
+[1000,1000]
+#MAP_TEXTURES
+000
+
+#COLLISION_COORDS
+003
+[00148,00317]
+[00299,00342]
+[00238,00030]
+
+#COLLISION_TEXTURES
+[Platforms\artist's desk level\5floorblock]
+[Platforms\artist's desk level\5floorblock]
+[Platforms\comic book level\comicbookrack]
+
+#ENEMY_COORDS
+000
+
+#ENEMY_TEXTURES
+
+#POWER_UP_COORDS
+000
+
+#POWER_UP_TEXTURES
+000
+
+#STARTGOAL_COORDS
+[00646,00141]
+[00642,00151]

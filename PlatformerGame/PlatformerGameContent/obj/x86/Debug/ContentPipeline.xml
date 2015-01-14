@@ -1,0 +1,881 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\BackgroundMusic\Level1\Jaunty Gumption.mp3</Source>
+      <Name>Audio\BackgroundMusic\Level1\Jaunty Gumption</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Level1\Jaunty Gumption.xnb</Output>
+      <Extra>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Level1\Jaunty Gumption.wma</Extra>
+      <Time>2014-04-09T01:18:36.6566553+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\BackgroundMusic\Level2\The Complex.mp3</Source>
+      <Name>Audio\BackgroundMusic\Level2\The Complex</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Level2\The Complex.xnb</Output>
+      <Extra>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Level2\The Complex.wma</Extra>
+      <Time>2014-04-09T01:18:39.2662634+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\BackgroundMusic\Level3\Prelude and Action.mp3</Source>
+      <Name>Audio\BackgroundMusic\Level3\Prelude and Action</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Level3\Prelude and Action.xnb</Output>
+      <Extra>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Level3\Prelude and Action.wma</Extra>
+      <Time>2014-04-09T01:18:40.1881504+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\BackgroundMusic\Menu\Elevator Music.mp3</Source>
+      <Name>Audio\BackgroundMusic\Menu\Elevator Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Menu\Elevator Music.xnb</Output>
+      <Extra>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Menu\Elevator Music.wma</Extra>
+      <Time>2014-04-09T01:18:35.3680289+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\BackgroundMusic\Menu\menuMusic.mp3</Source>
+      <Name>Audio\BackgroundMusic\Menu\menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Menu\menuMusic.xnb</Output>
+      <Extra>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Menu\menuMusic.wma</Extra>
+      <Time>2014-04-09T01:18:35.3836538+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\BackgroundMusic\Menu\EPIC SAX GUY 10 MINS.mp3</Source>
+      <Name>Audio\BackgroundMusic\Menu\EPIC SAX GUY 10 MINS</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Menu\EPIC SAX GUY 10 MINS.xnb</Output>
+      <Extra>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\BackgroundMusic\Menu\EPIC SAX GUY 10 MINS.wma</Extra>
+      <Time>2014-04-09T01:18:35.4149041+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\bgexit.png</Source>
+      <Name>Background\bgexit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Background\bgexit.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\bggameover.png</Source>
+      <Name>Background\bggameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Background\bggameover.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\collision.png</Source>
+      <Name>Player\collision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\collision.xnb</Output>
+      <Time>2014-04-09T01:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\leftrightCollision.png</Source>
+      <Name>Player\leftrightCollision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\leftrightCollision.xnb</Output>
+      <Time>2014-04-09T01:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\topCollision.png</Source>
+      <Name>Player\topCollision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\topCollision.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\bottomCollision.png</Source>
+      <Name>Player\bottomCollision</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\bottomCollision.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\platform.png</Source>
+      <Name>Platforms\platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\platform.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist's desk level\1Floorblock.png</Source>
+      <Name>Platforms\artist's desk level\1Floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\artist's desk level\1Floorblock.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist's desk level\chalkboard.png</Source>
+      <Name>Platforms\artist's desk level\chalkboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\artist's desk level\chalkboard.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist's desk level\everything for scale.png</Source>
+      <Name>Platforms\artist's desk level\everything for scale</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\artist's desk level\everything for scale.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist's desk level\inkspot1.png</Source>
+      <Name>Platforms\artist's desk level\inkspot1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\artist's desk level\inkspot1.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist's desk level\paperstack.png</Source>
+      <Name>Platforms\artist's desk level\paperstack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\artist's desk level\paperstack.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist's desk level\printer.png</Source>
+      <Name>Platforms\artist's desk level\printer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\artist's desk level\printer.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist's desk level\sharppencil.png</Source>
+      <Name>Platforms\artist's desk level\sharppencil</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\artist's desk level\sharppencil.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\bookstack1.png</Source>
+      <Name>Platforms\comic book level\bookstack1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\comic book level\bookstack1.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\comicbookrack.png</Source>
+      <Name>Platforms\comic book level\comicbookrack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\comic book level\comicbookrack.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\comicstack2.png</Source>
+      <Name>Platforms\comic book level\comicstack2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\comic book level\comicstack2.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\openbook.png</Source>
+      <Name>Platforms\comic book level\openbook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\comic book level\openbook.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\streets level\redradiator.png</Source>
+      <Name>Platforms\streets level\redradiator</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\streets level\redradiator.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\streets level\sewergrate.png</Source>
+      <Name>Platforms\streets level\sewergrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\streets level\sewergrate.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\streets level\tap drop.png</Source>
+      <Name>Platforms\streets level\tap drop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\streets level\tap drop.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\streets level\tap.png</Source>
+      <Name>Platforms\streets level\tap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\streets level\tap.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\streets level\watercooler.png</Source>
+      <Name>Platforms\streets level\watercooler</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\streets level\watercooler.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Powerups\bigfreeze.png</Source>
+      <Name>Powerups\bigfreeze</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Powerups\bigfreeze.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Powerups\blueball.png</Source>
+      <Name>Powerups\blueball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Powerups\blueball.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Powerups\death.png</Source>
+      <Name>Powerups\death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Powerups\death.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Powerups\heatwave.png</Source>
+      <Name>Powerups\heatwave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Powerups\heatwave.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Powerups\invincibility.png</Source>
+      <Name>Powerups\invincibility</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Powerups\invincibility.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Powerups\redball.png</Source>
+      <Name>Powerups\redball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Powerups\redball.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Powerups\stopwatch.png</Source>
+      <Name>Powerups\stopwatch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Powerups\stopwatch.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\rain.png</Source>
+      <Name>Misc\rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Misc\rain.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\bgmenu.png</Source>
+      <Name>Background\bgmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Background\bgmenu.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\fire.png</Source>
+      <Name>Misc\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Misc\fire.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\fireYellow.png</Source>
+      <Name>Misc\fireYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Misc\fireYellow.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist's desk level\5Floorblock.png</Source>
+      <Name>Platforms\artist's desk level\5Floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\artist's desk level\5Floorblock.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\artist's desk level\door.png</Source>
+      <Name>Platforms\artist's desk level\door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\artist's desk level\door.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\princess\leftIdle.png</Source>
+      <Name>Player\princess\leftIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\princess\leftIdle.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\princess\leftJump.png</Source>
+      <Name>Player\princess\leftJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\princess\leftJump.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\princess\leftRun.png</Source>
+      <Name>Player\princess\leftRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\princess\leftRun.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\princess\rightIdle.png</Source>
+      <Name>Player\princess\rightIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\princess\rightIdle.xnb</Output>
+      <Time>2014-04-09T01:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\princess\rightJump.png</Source>
+      <Name>Player\princess\rightJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\princess\rightJump.xnb</Output>
+      <Time>2014-04-09T01:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\princess\rightRun.png</Source>
+      <Name>Player\princess\rightRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\princess\rightRun.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\optionsBackground.png</Source>
+      <Name>Background\optionsBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Background\optionsBackground.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\SelectLevel.png</Source>
+      <Name>Background\SelectLevel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Background\SelectLevel.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\SelectPlayer.png</Source>
+      <Name>Background\SelectPlayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Background\SelectPlayer.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\cold.png</Source>
+      <Name>UI\cold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\UI\cold.xnb</Output>
+      <Time>2014-04-09T01:18:41.1839989+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\hot.png</Source>
+      <Name>UI\hot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\UI\hot.xnb</Output>
+      <Time>2014-04-09T01:18:41.1996234+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Enemy\zombie.png</Source>
+      <Name>Enemy\zombie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Enemy\zombie.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Enemy\scissors.png</Source>
+      <Name>Enemy\scissors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Enemy\scissors.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\book.jpg</Source>
+      <Name>Menu\book</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Menu\book.xnb</Output>
+      <Time>2014-04-09T01:18:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\book2.png</Source>
+      <Name>Menu\book2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Menu\book2.xnb</Output>
+      <Time>2014-04-09T01:18:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\book3.jpg</Source>
+      <Name>Menu\book3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Menu\book3.xnb</Output>
+      <Time>2014-04-09T01:18:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\vivere.png</Source>
+      <Name>Menu\vivere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Menu\vivere.xnb</Output>
+      <Time>2014-04-09T01:18:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\door.png</Source>
+      <Name>Misc\door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Misc\door.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Misc\goal.png</Source>
+      <Name>Misc\goal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Misc\goal.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Misc\spawn.png</Source>
+      <Name>Misc\spawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Misc\spawn.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\1Floorblock.png</Source>
+      <Name>Platforms\comic book level\1Floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\comic book level\1Floorblock.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Platforms\comic book level\5Floorblock.png</Source>
+      <Name>Platforms\comic book level\5Floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\comic book level\5Floorblock.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\zombie\zombieLeftIdle.png</Source>
+      <Name>Player\zombie\zombieLeftIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\zombie\zombieLeftIdle.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\zombie\zombieLeftJump.png</Source>
+      <Name>Player\zombie\zombieLeftJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\zombie\zombieLeftJump.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\zombie\zombieLeftRun.png</Source>
+      <Name>Player\zombie\zombieLeftRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\zombie\zombieLeftRun.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\zombie\zombieRightIdle.png</Source>
+      <Name>Player\zombie\zombieRightIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\zombie\zombieRightIdle.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\zombie\zombieRightJump.png</Source>
+      <Name>Player\zombie\zombieRightJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\zombie\zombieRightJump.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\zombie\zombieRightRun.png</Source>
+      <Name>Player\zombie\zombieRightRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\zombie\zombieRightRun.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\link\linkLeftJump.png</Source>
+      <Name>Player\link\linkLeftJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\link\linkLeftJump.xnb</Output>
+      <Time>2014-04-09T01:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\link\linkRightJump.png</Source>
+      <Name>Player\link\linkRightJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\link\linkRightJump.xnb</Output>
+      <Time>2014-04-09T01:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\link\linkLeftRun.png</Source>
+      <Name>Player\link\linkLeftRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\link\linkLeftRun.xnb</Output>
+      <Time>2014-04-09T01:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\link\linkRightRun.png</Source>
+      <Name>Player\link\linkRightRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\link\linkRightRun.xnb</Output>
+      <Time>2014-04-09T01:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\link\linkLeftIdle.png</Source>
+      <Name>Player\link\linkLeftIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\link\linkLeftIdle.xnb</Output>
+      <Time>2014-04-09T01:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\link\linkRightIdle.png</Source>
+      <Name>Player\link\linkRightIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Player\link\linkRightIdle.xnb</Output>
+      <Time>2014-04-09T01:18:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\level1Background.jpg</Source>
+      <Name>Background\level1Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Background\level1Background.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\level2Background.jpg</Source>
+      <Name>Background\level2Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Background\level2Background.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\level3Background.jpg</Source>
+      <Name>Background\level3Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Background\level3Background.xnb</Output>
+      <Time>2014-04-09T01:18:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\zombie\zombieLeftIdle.png</Source>
+      <Name>Enemy\zombie\zombieLeftIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Enemy\zombie\zombieLeftIdle.xnb</Output>
+      <Time>2014-04-09T01:18:41.2621249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\zombie\zombieLeftJump.png</Source>
+      <Name>Enemy\zombie\zombieLeftJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Enemy\zombie\zombieLeftJump.xnb</Output>
+      <Time>2014-04-09T01:18:41.2464995+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\zombie\zombieLeftRun.png</Source>
+      <Name>Enemy\zombie\zombieLeftRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Enemy\zombie\zombieLeftRun.xnb</Output>
+      <Time>2014-04-09T01:18:41.2621249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\zombie\zombieRightIdle.png</Source>
+      <Name>Enemy\zombie\zombieRightIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Enemy\zombie\zombieRightIdle.xnb</Output>
+      <Time>2014-04-09T01:18:41.2621249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\zombie\zombieRightJump.png</Source>
+      <Name>Enemy\zombie\zombieRightJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Enemy\zombie\zombieRightJump.xnb</Output>
+      <Time>2014-04-09T01:18:41.2621249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\zombie\zombieRightRun.png</Source>
+      <Name>Enemy\zombie\zombieRightRun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Enemy\zombie\zombieRightRun.xnb</Output>
+      <Time>2014-04-09T01:18:41.2777498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Powerups\coin.png</Source>
+      <Name>Powerups\coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Powerups\coin.xnb</Output>
+      <Time>2014-04-09T01:18:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\scissors\scissors.png</Source>
+      <Name>Enemy\scissors\scissors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Enemy\scissors\scissors.xnb</Output>
+      <Time>2014-04-09T01:18:41+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Platforms\streets level\1Floorblock.png</Source>
+      <Name>Platforms\streets level\1Floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\streets level\1Floorblock.xnb</Output>
+      <Time>2014-04-09T01:18:41+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Platforms\streets level\5floorblock.png</Source>
+      <Name>Platforms\streets level\5floorblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Platforms\streets level\5floorblock.xnb</Output>
+      <Time>2014-04-09T01:18:41+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\EventMusic\jumping_teon.wav</Source>
+      <Name>Audio\EventMusic\jumping_teon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Audio\EventMusic\jumping_teon.xnb</Output>
+      <Time>2014-04-09T01:18:40.2194002+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Video\video.wmv</Source>
+      <Name>Video\video</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Video\video.xnb</Output>
+      <Extra>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Video\video.wmv</Extra>
+      <Time>2014-04-09T01:18:41+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\Level Editor\WinFormsGraphicsDevice\Content\Font\Times New Roman.spritefont</Source>
+      <Name>Font\Times New Roman</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\Font\Times New Roman.xnb</Output>
+      <Time>2014-04-09T01:18:42.4033989+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jake\Dropbox\Games Technology\Year 2\Game Engine Architecture\Group Platformer\game files\PlatformerGame\PlatformerGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-29T14:22:34.377792+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

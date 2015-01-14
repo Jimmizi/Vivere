@@ -1,0 +1,109 @@
+Content\Audio\BackgroundMusic\Level1\Jaunty Gumption.xnb
+Content\Audio\BackgroundMusic\Level2\The Complex.xnb
+Content\Audio\BackgroundMusic\Level3\Prelude and Action.xnb
+Content\Audio\BackgroundMusic\Menu\Elevator Music.xnb
+Content\Audio\BackgroundMusic\Menu\menuMusic.xnb
+Content\Audio\BackgroundMusic\Menu\EPIC SAX GUY 10 MINS.xnb
+Content\Background\bgexit.xnb
+Content\Background\bggameover.xnb
+Content\Player\collision.xnb
+Content\Player\leftrightCollision.xnb
+Content\Player\topCollision.xnb
+Content\Player\bottomCollision.xnb
+Content\Platforms\platform.xnb
+Content\Platforms\artist's desk level\1Floorblock.xnb
+Content\Platforms\artist's desk level\chalkboard.xnb
+Content\Platforms\artist's desk level\everything for scale.xnb
+Content\Platforms\artist's desk level\inkspot1.xnb
+Content\Platforms\artist's desk level\paperstack.xnb
+Content\Platforms\artist's desk level\printer.xnb
+Content\Platforms\artist's desk level\sharppencil.xnb
+Content\Platforms\comic book level\bookstack1.xnb
+Content\Platforms\comic book level\comicbookrack.xnb
+Content\Platforms\comic book level\comicstack2.xnb
+Content\Platforms\comic book level\openbook.xnb
+Content\Platforms\streets level\redradiator.xnb
+Content\Platforms\streets level\sewergrate.xnb
+Content\Platforms\streets level\tap drop.xnb
+Content\Platforms\streets level\tap.xnb
+Content\Platforms\streets level\watercooler.xnb
+Content\Powerups\bigfreeze.xnb
+Content\Powerups\blueball.xnb
+Content\Powerups\death.xnb
+Content\Powerups\heatwave.xnb
+Content\Powerups\invincibility.xnb
+Content\Powerups\redball.xnb
+Content\Powerups\stopwatch.xnb
+Content\Misc\rain.xnb
+Content\Background\bgmenu.xnb
+Content\Misc\fire.xnb
+Content\Misc\fireYellow.xnb
+Content\Platforms\artist's desk level\5Floorblock.xnb
+Content\Platforms\artist's desk level\door.xnb
+Content\Player\princess\leftIdle.xnb
+Content\Player\princess\leftJump.xnb
+Content\Player\princess\leftRun.xnb
+Content\Player\princess\rightIdle.xnb
+Content\Player\princess\rightJump.xnb
+Content\Player\princess\rightRun.xnb
+Content\Background\optionsBackground.xnb
+Content\Background\SelectLevel.xnb
+Content\Background\SelectPlayer.xnb
+Content\UI\cold.xnb
+Content\UI\hot.xnb
+Content\Enemy\zombie.xnb
+Content\Enemy\scissors.xnb
+Content\Menu\book.xnb
+Content\Menu\book2.xnb
+Content\Menu\book3.xnb
+Content\Menu\vivere.xnb
+Content\Misc\door.xnb
+Content\Misc\goal.xnb
+Content\Misc\spawn.xnb
+Content\Platforms\comic book level\1Floorblock.xnb
+Content\Platforms\comic book level\5Floorblock.xnb
+Content\Player\zombie\zombieLeftIdle.xnb
+Content\Player\zombie\zombieLeftJump.xnb
+Content\Player\zombie\zombieLeftRun.xnb
+Content\Player\zombie\zombieRightIdle.xnb
+Content\Player\zombie\zombieRightJump.xnb
+Content\Player\zombie\zombieRightRun.xnb
+Content\Player\link\linkLeftJump.xnb
+Content\Player\link\linkRightJump.xnb
+Content\Player\link\linkLeftRun.xnb
+Content\Player\link\linkRightRun.xnb
+Content\Player\link\linkLeftIdle.xnb
+Content\Player\link\linkRightIdle.xnb
+Content\Background\level1Background.xnb
+Content\Background\level2Background.xnb
+Content\Background\level3Background.xnb
+Content\Enemy\zombie\zombieLeftIdle.xnb
+Content\Enemy\zombie\zombieLeftJump.xnb
+Content\Enemy\zombie\zombieLeftRun.xnb
+Content\Enemy\zombie\zombieRightIdle.xnb
+Content\Enemy\zombie\zombieRightJump.xnb
+Content\Enemy\zombie\zombieRightRun.xnb
+Content\Powerups\coin.xnb
+Content\Enemy\scissors\scissors.xnb
+Content\Platforms\streets level\1Floorblock.xnb
+Content\Platforms\streets level\5floorblock.xnb
+Content\Audio\EventMusic\jumping_teon.xnb
+Content\Video\video.xnb
+Content\Font\Times New Roman.xnb
+Content\Audio\BackgroundMusic\Level1\Jaunty Gumption.wma
+Content\Audio\BackgroundMusic\Level2\The Complex.wma
+Content\Audio\BackgroundMusic\Level3\Prelude and Action.wma
+Content\Audio\BackgroundMusic\Menu\Elevator Music.wma
+Content\Audio\BackgroundMusic\Menu\menuMusic.wma
+Content\Audio\BackgroundMusic\Menu\EPIC SAX GUY 10 MINS.wma
+Content\Video\video.wmv
+Content\Maps\map1.txt
+Content\Maps\map2.txt
+Content\Maps\map3.txt
+Content\Maps\map4.txt
+Content\Maps\map5.txt
+Content\Maps\map6.txt
+Content\Maps\map7.txt
+Content\Sound Bank.xsb
+Content\Wave Bank.xwb
+Content\XACT for PlatformGameV2.xgs
